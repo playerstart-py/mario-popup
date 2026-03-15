@@ -1,0 +1,19 @@
+Mario Popup
+
+This is a small program based on the "3 days until Mario steals your liver" meme.
+When you run the program it shows popup windows counting down the days.
+
+Features
+
+* Popup windows with Mario
+* Warning icon
+* Sound effects
+* Cancel button disappears after several clicks
+
+Download
+
+You can download the program from the Releases section of this repository.
+
+Running
+
+Download the .exe file and run it on Windows
